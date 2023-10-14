@@ -1,3 +1,2 @@
 ## Themes Folder
-
-### Visibile only to the creator of the repo.
+Available: [Hexo Butterfly](https://238728.github.io/filebed/themes/)
