@@ -1,7 +1,7 @@
 ## Personal File Bed
 ### Links: 
-[Default Folder](/default)
+[Default Folder](/filebed/default)
 
-[Themes Folder](/themes)
+[Themes Folder](/filebed/themes)
 
-[Image Folder](/img)
+[Image Folder](/filebed/img)
