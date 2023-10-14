@@ -1,2 +1,2 @@
 ## Personal File Bed
-[img(blink.png)](https://238728.github.io/filebed/img/blink.png)
+### Links: [Default Folder](/filebed/default) [Themes Folder](/filebed/themes) [Image Folder](/filebed/img)
